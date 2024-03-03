@@ -91,8 +91,6 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   background-image: url(https://images.unsplash.com/photo-1597976618063-810eb50c84fb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-  /* background-image: url(https://images.unsplash.com/photo-1503104834685-7205e8607eb9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
-  /* background-image: url(https://images.unsplash.com/photo-1611202417666-028feb2adb33?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
   background-size: cover;
   background-position: bottom;
   background-size: 9cm;
